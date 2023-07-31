@@ -241,11 +241,13 @@ text-decoration: none;
 #hero {
   width: 100%;
   height:600px;
-  background: url("../278799829_1053321538872412_5929292720792561733_n.jpg") left center;
+  background: url("../278799829_1053321538872412_5929292720792561733_n.jpg") top center;
   background-size: cover;
   padding-left: 50px;
   background-position-x:220px ;
   background-position-y:1100px ;
+  
+
 }
 
 #hero:before {
